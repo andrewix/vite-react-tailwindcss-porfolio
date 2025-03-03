@@ -22,7 +22,7 @@ function Projects() {
       }
     },
     {
-      title: "Amazon Web Scrapper",
+      title: "Amazon Web Scraper",
       description: "We are collecting pricing data for various products from Amazon as part of this project.",
       image: "/Amazon.jpg",
       technologies: ["Python", "BeautifulSoup", "requests", "time", "datetime", "smtplib"],
